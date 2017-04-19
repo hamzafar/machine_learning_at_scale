@@ -3,7 +3,7 @@
 ## Introduction 
 Machine learning is about identifying patterns in data and based on that patterns perform reasoning on unseen data. Caputring maximum patterns for reasing we need to have population instead of sampling. Since we are living in the era where Data is increasing exponentially, analyzing that data on single machine is not an easy game. We have deployed Sparkling water (Killer Application) that uses storage capacity of hadoop, processing power of spark and Machine learning capabilities of h2o.The typical workflow includes hdfs as its data sotrage system, over that spark is used for data processing and h2o is used as Machine Learning engine for predicitve modelling shown as below:
 
-<img src="https://databricks.com/wp-content/uploads/2014/06/Tachyon-integration.png", width=400>
+<img src=https://databricks.com/wp-content/uploads/2014/06/Tachyon-integration.png, width=400>
 
 we have used amazon data set for testing purpose on 3 systems(cluster). The data is stored in hdfs(hadoop distributed file system) and then processed with spark finally Machine Learning Model is learned with h2o. 
 
@@ -22,3 +22,5 @@ Then we made Spark cluster that works above yarn. All three Machines are include
 <img src = https://github.com/hamzafar/test/blob/master/sparkrunning.png?raw=true>
 
 
+## Data Analytics:
+https://github.com/hamzafar/machine_learning_at_scale/blob/master/Kaggle/Kaggle.md
