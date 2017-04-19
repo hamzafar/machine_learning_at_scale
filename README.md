@@ -5,6 +5,9 @@ Machine learning is about identifying patterns in data and based on that pattern
 
 <img src=https://databricks.com/wp-content/uploads/2014/06/Tachyon-integration.png, width=400>
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 we have used amazon data set for testing purpose on 3 systems(cluster). The data is stored in hdfs(hadoop distributed file system) and then processed with spark finally Machine Learning Model is learned with h2o. 
 
 The detail description of each of the step is given below:
