@@ -24,4 +24,5 @@ Then we made Spark cluster that works above yarn. All three Machines are include
 
 
 ## Data Analytics:
+We have used Amazon dataset hosted at kaggle for demon purpose of the above framework. The further analytics can be seen on the link below:
 https://github.com/hamzafar/machine_learning_at_scale/blob/master/Kaggle/Kaggle.md
