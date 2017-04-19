@@ -20,7 +20,7 @@ Then we made Spark cluster that works above yarn. All three Machines are include
 <img src= https://raw.githubusercontent.com/hamzafar/test/master/datanodes%20live.png>
 
 ### *Spark Configuration* ###
-<img src = https://github.com/hamzafar/test/blob/master/sparkrunning.png?raw=true>
+<img src = https://raw.githubusercontent.com/hamzafar/machine_learning_at_scale/master/sparkrunning.png>
 
 
 ## Data Analytics:
